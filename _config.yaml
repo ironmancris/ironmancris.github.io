@@ -1,6 +1,10 @@
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default"
+---
+title: My title
+layout: post
+---
+
+highlighter: pygments
+github: [Repository metadata]
+safe: true
+lsi: false
+source: "/Users/ironmancris/src/ironmancris.github.io/"
